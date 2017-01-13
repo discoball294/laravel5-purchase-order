@@ -17,6 +17,7 @@ Test it with Postman, no user interface
     /purchase
     ```
     Insert new purchase order
+    
 * Method DELETE
     ```php
     /purchase/id
