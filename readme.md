@@ -6,10 +6,12 @@ Test it with Postman, no user interface
     /purchase
     ```
     Get all list of purchase order
+    
     ```php
     /purchase/id
     ```
     Get purchase order data by id
+    
 * Method POST
     ```php
     /purchase
